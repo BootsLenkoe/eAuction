@@ -1,2 +1,2 @@
 # eAuction
-Spring API without Views
+Spring eAuction API JPA without Views
